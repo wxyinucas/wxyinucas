@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub Roast 评分徽章](https://githubroast.dev/api/badge/wxyinucas)](https://githubroast.dev/u/wxyinucas)
+
+
+[![GitHub Roast](https://githubroast.dev/api/card/wxyinucas?theme=dark)](https://githubroast.dev/u/wxyinucas)
